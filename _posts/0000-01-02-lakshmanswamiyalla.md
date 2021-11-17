@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Add lakshmanswamiyalla's file
+_posts/0000-01-02-lakshmanswamiyalla.md
 Use the left arrow to go back!
